@@ -1,0 +1,4 @@
+#这是DrRacket生成的complie文件
+compiled/
+#缓存文件应该
+*.rkt~
