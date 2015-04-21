@@ -1,6 +1,7 @@
 #lang racket
 
 ;换零钱，应该是动态规划＋递归
+;树形递归
 (define (count-change amount)
   (cc amount 5))
 (define (cc amount kinds-of-coins)
